@@ -4,6 +4,12 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+//STORE -> Global State
+
+//ACTION Increment
+
+//REDUCER 
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
