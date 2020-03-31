@@ -1,6 +1,7 @@
- const increment = () => {
+ const increment = (nr) => {
     return {
-        type : 'INCREMENT'
+        type : 'INCREMENT',
+        payload : nr
     }
 }
 
